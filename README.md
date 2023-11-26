@@ -10,11 +10,11 @@
     A website for K4-System Time Played plugin by K4ryuu
     <br />
     <br />
-    <a href="https://github.com/K4ryuu/K4-System/releases">Download</a>
+    <a href="https://github.com/PorcusorulMagic/K4-System-Time-Played-Website/releases">Download</a>
     ·
-    <a href="https://github.com/K4ryuu/K4-System/issues/new?assignees=K4ryuu&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
+    <a href="https://github.com/PorcusorulMagic/K4-System-Time-Played-Website/issues/new?assignees=K4ryuu&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
     ·
-    <a href="https://github.com/K4ryuu/K4-System/issues/new?assignees=K4ryuu&labels=enhancement&projects=&template=feature_request.md&title=%5BREQ%5D">Request Feature</a>
+    <a href="https://github.com/PorcusorulMagic/K4-System-Time-Played-Website/issues/new?assignees=K4ryuu&labels=enhancement&projects=&template=feature_request.md&title=%5BREQ%5D">Request Feature</a>
   </p>
 </div>
 
@@ -54,8 +54,9 @@
 
 ## About The Project
 
-K4-Systems is a plugin that enhances the server with features such as a playtime tracker, statistical records, and player ranks. Additionally, it includes VIP functions and admin commands for added functionality.
+This is a site to show players the time played on the server.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ![image](https://github.com/PorcusorulMagic/K4-System-Time-Website/assets/98654600/30f85554-6194-4465-8acc-304747b95956)
+
