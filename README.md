@@ -6,7 +6,7 @@
   <h3 align="center">K4-System Time Played Website</h3>
 
   <p align="center">
-    A website for K4-System Time Played plugin by K4ryuu
+    A website for K4-System Time Played addon by K4ryuu
     <br />
     <br />
     <a href="https://github.com/PorcusorulMagic/K4-System-Time-Played-Website/releases">Download</a>
