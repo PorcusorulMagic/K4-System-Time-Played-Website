@@ -85,7 +85,7 @@ Before you begin, ensure you have the following prerequisites:
 - Move conent of webserver/ folder to your webspace
 - Edit inc/config.php
 <details>
-  <summary>Details here</summary><?php 
+  <summary>Details here</summary><?php>
 - Set Database hostname
 $k4times_dbHost = "";
 - Set Database username
