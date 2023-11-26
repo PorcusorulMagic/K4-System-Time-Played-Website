@@ -85,6 +85,7 @@ Before you begin, ensure you have the following prerequisites:
 - Move conent of webserver/ folder to your webspace
 - Edit inc/config.php
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Screenshot
