@@ -88,14 +88,21 @@ Before you begin, ensure you have the following prerequisites:
   <summary>Details here</summary><?php>
       <li>
 <a>Set Database hostname</a>
+        </li>
 $k4times_dbHost = "";
+  <li>
 <a>Set Database Username</a>
+    </li>
 $k4times_dbUser = "";
+  <li>
 <a>Set Database Password</a>
+     </li>
 $k4times_dbPass = "";
+  <li>
 <a>Set Database Name</a>
+    </li>
 $k4times_dbName = "";
-            </li>
+            
 </details>
 
 
