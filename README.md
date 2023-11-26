@@ -3,10 +3,10 @@
 <br />
 <div align="center">
   <h1 align="center">PorcusorulMagic</h1>
-  <h3 align="center">K4-System Time Played Website</h3>
+  <h3 align="center">K4-System Time Played Webspace</h3>
 
   <p align="center">
-    A website for K4-System Time Played addon by K4ryuu
+    A webspace for K4-System Time Played addon by K4ryuu
     <br />
     <br />
     <a href="https://github.com/PorcusorulMagic/K4-System-Time-Played-Website/releases">Download</a>
