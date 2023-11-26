@@ -1,4 +1,3 @@
-<!-- FOOTER -->
 <div class="well" style="text-align: center">
 	<p>
 		<span class="glyphicon glyphicon-triangle-right" aria-hidden="false"></span>
