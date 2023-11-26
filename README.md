@@ -35,7 +35,6 @@
       </ul>
     </li>
     <li><a href="#screenshot">Screenshot</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -103,4 +102,23 @@ Before you begin, ensure you have the following prerequisites:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Screenshot
+
 ![image](https://github.com/PorcusorulMagic/K4-System-Time-Website/assets/98654600/30f85554-6194-4465-8acc-304747b95956)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## License
+
+Distributed under the GPL-3.0 License. See `LICENSE.md` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+
+## Contact
+
+- **Discord:** porcusorulmagic#4908
+- **Email:** eueumonster@gmail.com
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
