@@ -86,6 +86,7 @@ Before you begin, ensure you have the following prerequisites:
 - Edit inc/config.php
 <details>
   <summary>Details here</summary><?php>
+      <li>
 <a>Set Database hostname</a>
 $k4times_dbHost = "";
 <a>Set Database Username</a>
@@ -94,6 +95,7 @@ $k4times_dbUser = "";
 $k4times_dbPass = "";
 <a>Set Database Name</a>
 $k4times_dbName = "";
+            </li>
 </details>
 
 
