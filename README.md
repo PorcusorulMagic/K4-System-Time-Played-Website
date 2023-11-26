@@ -8,11 +8,11 @@ A website connect to mysql stats from for CS2 K4 System plugin.
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">K4ryuu</h1>
-  <h3 align="center">K4-System</h3>
+  <h1 align="center">PorcusorulMagic</h1>
+  <h3 align="center">K4-System Time Played Website</h3>
 
   <p align="center">
-    An awesome CS2 server addon created with <a href="https://github.com/roflmuffin/CounterStrikeSharp"><strong>CounterStrikeSharp</strong></a>
+    A website for K4-System Time Played plugin by K4ryuu
     <br />
     <br />
     <a href="https://github.com/K4ryuu/K4-System/releases">Download</a>
