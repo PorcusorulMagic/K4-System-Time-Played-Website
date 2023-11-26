@@ -86,13 +86,13 @@ Before you begin, ensure you have the following prerequisites:
 - Edit inc/config.php
 <details>
   <summary>Details here</summary><?php>
-- Set Database hostname
+<a>Set Database hostname</a>
 $k4times_dbHost = "";
-- Set Database username
+<a>Set Database Username</a>
 $k4times_dbUser = "";
-- Set Database password
+<a>Set Database Password</a>
 $k4times_dbPass = "";
-- Set Database name
+<a>Set Database Name</a>
 $k4times_dbName = "";
 </details>
 
