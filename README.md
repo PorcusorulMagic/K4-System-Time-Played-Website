@@ -87,19 +87,19 @@ Before you begin, ensure you have the following prerequisites:
 <details>
   <summary>Details here</summary><?php 
 - Set your site title
-$siteTitle = "MyPanel";
+  $siteTitle = "MyPanel";
 
 - Set your site logo - "" blank for no background image
-$siteLogo = "img/csgo.jpg";
+  $siteLogo = "img/csgo.jpg";
 
 - Set your background image - "" blank for no background image
-$background = "img/background.jpg"; 
+- $background = "img/background.jpg"; 
 
 - Users per page
-$usersPerPage = "20";
+- $usersPerPage = "20";
 
 - Minimum total time a players needs to get in list
-$k4times_minSec = "10";
+  $k4times_minSec = "10";
 
 
 - Set bootstrap theme - remove // infront of a theme and add // to remove old
@@ -107,17 +107,14 @@ $k4times_minSec = "10";
          $stylesheet = "css/cyborg.css"; // https://github.com/StrutTower/bootsteam-theme
 
 - Time Format
-$time_format = array('Days', 'Hrs', 'Min', 'Sec');
+  $time_format = array('Days', 'Hrs', 'Min', 'Sec');
 
 - Set DB hostname
 $k4times_dbHost = "localhost";
-
 - Set DB username
 $k4times_dbUser = "";
-
 - Set DB password
 $k4times_dbPass = "";
-
 - Set DB name
 $k4times_dbName = "";
 </details>
