@@ -106,6 +106,8 @@ Before you begin, ensure you have the following prerequisites:
 
 ![image](https://github.com/PorcusorulMagic/K4-System-Time-Website/assets/98654600/30f85554-6194-4465-8acc-304747b95956)
 
+4. **Website test:** https://www.panelcs.ro/test
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
