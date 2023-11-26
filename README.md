@@ -84,7 +84,8 @@ Before you begin, ensure you have the following prerequisites:
 - Use mysql from your counterstrikesharp/configs/plugins/K4-System/K4-System.json
 - Move conent of webserver/ folder to your webspace
 - Edit inc/config.php
-[spoiler]<?php 
+<details>
+  <summary>Details here</summary><?php 
 // Basic Settings -----------------------------------------------------------
 
 
@@ -98,10 +99,10 @@ $siteLogo = "img/csgo.jpg";
 $background = "img/background.jpg"; 
 
 // Users per page
-$usersPerPage = "25";
+$usersPerPage = "20";
 
 // Minimum total time a players needs to get in list
-$mostactive_minSec = "300";
+$mostactive_minSec = "10";
 
 
 // Set bootstrap theme - remove // infront of a theme and add // to remove old
@@ -142,7 +143,8 @@ $mostactive_dbName = "";
 
 
 // End Of Settings ----------------------------------------------------------------
-?>[/spoiler]
+?>
+</details>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
