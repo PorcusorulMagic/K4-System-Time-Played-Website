@@ -1,8 +1,3 @@
-# K4-System-Time-Website
-A website connect to mysql stats from for CS2 K4 System plugin.
-
-![image](https://github.com/PorcusorulMagic/K4-System-Time-Website/assets/98654600/30f85554-6194-4465-8acc-304747b95956)
-
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
@@ -62,3 +57,5 @@ A website connect to mysql stats from for CS2 K4 System plugin.
 K4-Systems is a plugin that enhances the server with features such as a playtime tracker, statistical records, and player ranks. Additionally, it includes VIP functions and admin commands for added functionality.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+![image](https://github.com/PorcusorulMagic/K4-System-Time-Website/assets/98654600/30f85554-6194-4465-8acc-304747b95956)
