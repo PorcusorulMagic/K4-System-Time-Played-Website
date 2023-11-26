@@ -49,10 +49,11 @@ This is a websitesite to show players the time played on the server.
 
 ### Dependencies
 
-To use this server addon, you'll need the following dependencies installed:
+To use this website server addon, you'll need the following dependencies installed:
 
 - [**CounterStrikeSharp**](https://github.com/roflmuffin/CounterStrikeSharp/releases): CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2
 - **MySQL Database (Version 5.2 or higher):** This project requires a MySQL database to store and manage data. You can host your own MySQL server or use a third-party hosting service. Make sure it's at least version 5.2 or higher.
+- [**K4-System**](https://github.com/K4ryuu/K4-System/releases): Without this addon, the website is useless.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,15 +61,12 @@ To use this server addon, you'll need the following dependencies installed:
 
 I offer various ways to support my journey:
 
-- 💬 **Request Private Paid Jobs:** Got a specific project in mind? Let's chat, and I'll provide a quote.
-- 🎁 **Subscribe to My Tiers:** Join one of my subscription tiers for exclusive benefits, early access to projects, and personalized support.
 - ☕ **Buy Me a Coffee:** One-time donations keep me motivated and my creativity flowing.
-- 💼 **Shop from My Paid Resources:** Explore and purchase resources I've crafted for private use.
 
 Your support keeps my creative engine running and allows me to share knowledge with the community. Thanks for being part of my journey.
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/k4ryuu">
+<a href="https://www.buymeacoffee.com/porcusorulmagicu">
 <img src="https://img.buymeacoffee.com/button-api/?text=Support My Work&emoji=☕&slug=k4ryuu&button_colour=FF5F5F&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" />
 </a>
 </p>
@@ -79,23 +77,25 @@ Your support keeps my creative engine running and allows me to share knowledge w
 
 ## Getting Started
 
-Follow these steps to install and use the addon:
+Follow these steps to install and use the website:
 
 ### Prerequisites
 
 Before you begin, ensure you have the following prerequisites:
 
 - A working CS2 (Counter-Strike 2) server.
+- A working Website.
 - CounterStrikeSharp is up to date and is running on your server.
 - A compatible MySQL database (Version 5.2 or higher) set up and configured.
+- K4-System loaded in your server.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Installation
 
-1. **Download the Addon:** Start by downloading the addon from the [GitHub Releases Page](https://github.com/K4ryuu/K4-System/releases). Choose the latest release version.
+1. **Download the Website:** Start by downloading the website from the [GitHub Releases Page](https://github.com/PorcusorulMagic/K4-System-Time-Played/releases). Choose the latest release version.
 
-2. **Extract the Addon:** After downloading, extract the contents of the addon to the counterstrikesharp/plugins directory on your server. Inside the plugins folder, you should have a folder named exactly as the project dll. From the releases, you find it pre zipped with the correct name.
+2. **Extract the Website:** After downloading, extract the contents of the website into your webhost directory. From the releases, you find it pre zipped with the correct name.
 
 3. **Configuration:** The config is being generated after the first start of the plugin, to configs/plugins/K4-System/ folder.
 
