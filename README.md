@@ -117,7 +117,7 @@ $k4times_dbName = "";
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### To do
+## To do
 
 - Web mobile version
 - Add ranks
