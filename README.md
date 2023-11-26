@@ -34,6 +34,7 @@
       </ul>
     </li>
     <li><a href="#screenshot">Screenshot</a></li>
+    <li><a href="#todo">To do</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -113,6 +114,14 @@ $k4times_dbName = "";
 ![image](https://github.com/PorcusorulMagic/K4-System-Time-Website/assets/98654600/30f85554-6194-4465-8acc-304747b95956)
 
 **Website test:** https://www.panelcs.ro/test
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### To do
+
+- Web mobile version
+- Add ranks
+- Add stats
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
