@@ -119,7 +119,6 @@ $k4times_dbName = "";
 
 ## To do
 
-- Web mobile version
 - Add ranks
 - Add stats
 
