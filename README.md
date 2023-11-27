@@ -111,9 +111,9 @@ $k4times_dbName = "";
 
 ### Screenshot
 
-![image](https://github.com/PorcusorulMagic/K4-System-Time-Played-Website/assets/98654600/e1b73ecd-538d-4bb4-afce-bd33ecf1b386)
+![image](https://github.com/PorcusorulMagic/K4-System-Time-Played-Website/assets/98654600/fd39ed15-3c7d-4602-9670-1eaef7b0e381)
 
-**Website test:** https://www.panelcs.ro/test
+**Website test:** https://www.panelcs.ro/test/time
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
